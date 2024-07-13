@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola! me llamo José 👋
+# ¡Bienvenido! 👋
 
-Soy un entusiasta tecnológico con intereses especiales en Data Science, Computer Science, Machine Learnming, Data Analytics, Cloud Computing, entre otros. En este espacio comparto un poco de lo que voy aprendiendo en el camino. Algunos de los proyectos que encontrarás entre mis repositorios son compartidos con amigos y colegas y otros son personales.
+Soy José, un entusiasta tecnológico con intereses especiales en Data Science, Computer Science, Machine Learnming, Data Analytics, Cloud Computing, entre otros. En este espacio comparto un poco de lo que voy aprendiendo en el camino. Algunos de los proyectos que encontrarás entre mis repositorios son compartidos con amigos y colegas y otros son personales.
 
 ## 🔧 Habilidades
-- **Lenguajes:** Python, C++, GAS
-- **Herramientas:** Git, Docker, AWS, Power BI
+- **Lenguajes:** Python, C++, SQL, PL-SQL, GAS
+- **Herramientas:** Git, Docker, AWS, Power BI, PLSQL Developer
 
 ## 🚀 Proyectos Destacados
 - [PetMatch - Prototype for lost pet search](enlace): Descripción
