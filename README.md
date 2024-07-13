@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ¡Hola! me llamo José 👋
+
+Soy un entusiasta tecnológico con intereses especiales en Data Science, Computer Science, Machine Learnming, Data Analytics, Cloud Computing, entre otros. En este espacio comparto un poco de lo que voy aprendiendo en el camino. Algunos de los proyectos que encontrarás entre mis repositorios son compartidos con amigos y colegas y otros son personales.
+
+## 🔧 Habilidades
+- **Lenguajes:** Python, C++, GAS
+- **Herramientas:** Git, Docker, AWS, Power BI
+
+## 🚀 Proyectos Destacados
+- [PetMatch - Prototype for lost pet search](enlace): Descripción
+- [Recognition of peruvian coins using transfer learning](enlace): Descripción
+- [Navigator - Value Iteration & Policy Iteration algorithms for solving MDPs](enlace): Descripción
+
+## 📫 Contacto
+- [LinkedIn](www.linkedin.com/in/josezunigaavila)
+
+---
+
+¡Gracias por visitar mi perfil! 😊
+
