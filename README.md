@@ -13,23 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Bienvenido! 👋
+# ¡Wellcome! 👋
 
-Soy José, un entusiasta tecnológico con intereses especiales en Data Science, Computer Science, Machine Learnming, Data Analytics, Cloud Computing, entre otros. En este espacio comparto un poco de lo que voy aprendiendo en el camino. Algunos de los proyectos que encontrarás entre mis repositorios son compartidos con amigos y colegas y otros son personales.
+I am José, a technology enthusiast with special interests in Data Science, Computer Science, Machine Learning, Data Analytics, Cloud Computing, among others. In this space, I share a bit of what I am learning along the way. Some of the projects you will find among my repositories are shared with friends and colleagues, while others are personal ones.
 
-## 🔧 Habilidades
-- **Lenguajes:** Python, C++, SQL, PL-SQL, GAS
-- **Herramientas:** Git, Docker, AWS, Power BI, PLSQL Developer
+## 🔧 Skills
+- **Programming languages:** Python, C++, SQL, PL-SQL, GAS
+- **Tools:** Git, Docker, AWS, Power BI, PLSQL Developer
 
-## 🚀 Proyectos Destacados
+## 🚀 Some projects
 - [PetMatch - Prototype for lost pet search](https://github.com/josemza/PetMatch.git): It is a web prototype that performs lost pet searches using image similarity with Deep Learning tools such as ```CNN```, ```Transfer Learning```, and ```Embeddings```. This project is part of the course "Data Analytics para la toma de decisiones" offered in the Master's program in Computer Science at the Graduate School of the University of Engineering and Technology (UTEC), taught by Germain Garcia, Ph.D. in Computer Science.
 - [Recognition of peruvian coins using transfer learning](enlace): Descripción
-- [Navigator - Value Iteration & Policy Iteration algorithms for solving MDPs](enlace): Descripción
+- [Navigator - Value Iteration & Policy Iteration algorithms for solving MDPs](https://github.com/josemza/navigator.git): This project involves the use of two classic algorithms to solve Markov Decision Problems (MDP): Value Iteration Algorithm and Policy Iteration Algorithm. The project evaluates the performance of these algorithms by applying them to a problem of movements in a 2D grid.
 
-## 📫 Contacto
+## 📫 Contact
 - [LinkedIn](www.linkedin.com/in/josezunigaavila)
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+Thank you for visiting my repositorie! 😊
 
